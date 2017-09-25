@@ -8,7 +8,7 @@ author: denniszielke
 ## Deploying this sample
 1. Deploy the arm template in arm/template.json to azure
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fdenniszielke%2Fhackbotadvanced%2Fmaster%2Farm%2Ftemplate.json" target="_blank">
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fdenniszielke%2Fbarcodeiot%2Fmaster%2Farm%2Ftemplate.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>  
 
